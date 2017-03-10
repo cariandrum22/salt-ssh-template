@@ -1,0 +1,3 @@
+/etc/salt/pki/master/ssh/*
+!/etc/salt/pki/master/ssh/.keep
+/var

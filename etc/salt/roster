@@ -1,0 +1,5 @@
+server:
+  host: xxx.xxx.xxx.xxx
+  user: user
+  passwd: ********
+  sudo: True
